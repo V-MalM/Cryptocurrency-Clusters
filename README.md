@@ -55,7 +55,8 @@ For this project, preserved 90% of the explained variance in dimensionality redu
 
 ### Recommendation
 
-* Having executed the code several times and arriving at the same result 99% of the time, we can conclude there are 4 distinct clusters. There may be a few smaller clusters but based on KMeans elbow plot, we can conclude that there are 4 distinct cryptocurrency clusters in the data.
+* Having executed the code multiple times by trying out different parameters, and arriving at the same result, and based on KMeans elbow plot, we can conclude that there are 4 distinct cryptocurrency clusters in the data.  
+
 These clusters can be used to create a classification system for new investment.
 
 
