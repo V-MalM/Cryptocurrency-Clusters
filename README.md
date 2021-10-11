@@ -41,10 +41,12 @@ For this project, preserved 90% of the explained variance in dimensionality redu
 
 ### Using k value, predicted cluster labels and created a Report of Cryptocurrencies on the trading market and their predicted clusters
 
-<details>
-<summary><strong>Click to see a sample of the report!</strong></summary>
+<center><table width="80%"><tr><td width="100%"><img src="Plot_Images/report2.png"></td></tr></table></center>
 
-<center><table width="80%"><tr><td width="100%"><img src="Plot_Images/report.png"></td></tr></table></center>
+<details>
+<summary><strong>Click to see another sample !</strong></summary>
+
+<center><table width="80%"><tr><td width="100%"><img src="Plot_Images/report3.png"></td></tr></table></center>
 
 </details>
 
