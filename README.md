@@ -10,7 +10,7 @@
 
 ### Data Preparation
 
-* Startted by reading `crypto_data.csv` into Pandas. The dataset was obtained from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist).
+* Started by reading `crypto_data.csv` into Pandas. The dataset was obtained from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist).
 
 * Discarded all cryptocurrencies that are not being traded. In other words, filtered for currencies that are currently being traded. Once this was done, dropped the `IsTrading` column from the dataframe as it has no further use.
 
