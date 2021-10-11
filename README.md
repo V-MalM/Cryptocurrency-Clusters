@@ -32,31 +32,31 @@ For this project, preserved 90% of the explained variance in dimensionality redu
 
 * Further reduced the dataset dimensions with t-SNE and visually inspected the results. In order to accomplish this task, ran t-SNE on the principal components: the output of the PCA transformation from earlier. Then created a scatter plot of the t-SNE output to observe whether there are distinct clusters or not.
 
-<center><img src="Plot_Images/scatter.png" width="50%"></center>
+* <center><img src="Plot_Images/scatter.png" width="50%"></center>
 
 ### Cluster Analysis with k-Means
 
 * Created an elbow plot to identify the best number of clusters. Used a for-loop to determine the inertia for each `k` between 1 through 10. Determined, where the elbow of the plot was, and at which value of `k` it appeared.
 
-<center><img src="Plot_Images/elbow.png" width="50%"></center>
+* <center><img src="Plot_Images/elbow.png" width="50%"></center>
 
 ### Using k value, predicted cluster labels and created a Report of Cryptocurrencies on the trading market and their predicted clusters
 
 * Sample of the Report
 
-<center><table width="80%"><tr><td width="100%"><img src="Plot_Images/report2.png"></td></tr></table></center>
+* <center><table width="80%"><tr><td width="100%"><img src="Plot_Images/report2.png"></td></tr></table></center>
 
 <details>
 <summary><strong>Click to see another sample !</strong></summary>
 
-<center><table width="80%"><tr><td width="100%"><img src="Plot_Images/report3.png"></td></tr></table></center>
+* <center><table width="80%"><tr><td width="100%"><img src="Plot_Images/report3.png"></td></tr></table></center>
 
 </details>
 
 <br />
 
 ### Scatter Plot using cluster labels to distictly identify each cluster
-<center><img src="Plot_Images/scatter_c.png" width="50%"></center>
+* <center><img src="Plot_Images/scatter_c.png" width="50%"></center>
 
 ### Recommendation
 
