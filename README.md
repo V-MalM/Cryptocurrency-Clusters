@@ -31,7 +31,8 @@
 For example, say that a dataset has 100 features. Using `PCA(n_components=0.99)` creates a model that will preserve approximately 99% of the explained variance, whether that means reducing the dataset to 80 principal components or 3.  
 For this project, preserved 90% of the explained variance in dimensionality reduction by using `PCA(n_components=0.90)` 
 
-* Further reduced the dataset dimensions with t-SNE and visually inspected the results. In order to accomplish this task, ran t-SNE on the principal components: the output of the PCA transformation from earlier. Then created a scatter plot of the t-SNE output to observe whether there are distinct clusters or not.
+* Further reduced the dataset dimensions with t-SNE and visually inspected the results. In order to accomplish this task, ran t-SNE on the principal components: the output of the PCA transformation from earlier.  
+Then created a scatter plot of the t-SNE output to observe whether there are distinct clusters or not.
 
 * <center><img src="Plot_Images/scatter.png" width="50%"></center>
 
