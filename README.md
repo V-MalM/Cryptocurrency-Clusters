@@ -37,7 +37,7 @@ For this project, preserved 90% of the explained variance in dimensionality redu
 
 * Created an elbow plot to identify the best number of clusters. Used a for-loop to determine the inertia for each `k` between 1 through 10. Determined, where the elbow of the plot was, and at which value of `k` it appeared.
 
-<center><table width="50%"><tr><td width="64%"><img src="Plot_Images/elbow.png"></td></tr></table></center>
+<center><img src="Plot_Images/elbow.png" width="50%"></center>
 
 ### Using k value, predicted cluster labels and created a Report of Cryptocurrencies on the trading market and their predicted clusters
 
@@ -51,7 +51,7 @@ For this project, preserved 90% of the explained variance in dimensionality redu
 <br />
 
 ### Scatter Plot using cluster labels to distictly identify each cluster
-<center><table width="50%"><tr><td width="64%"><img src="Plot_Images/scatter_c.png"></td></tr></table></center>
+<center><img src="Plot_Images/scatter_c.png" width="50%"></center>
 
 ### Recommendation
 
