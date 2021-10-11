@@ -44,14 +44,14 @@ For this project, preserved 90% of the explained variance in dimensionality redu
 <details>
 <summary><strong>Click to see a sample of the report!</strong></summary>
 
-<center><table width="80%"><tr><td width="64%"><img src="Plot_Images/report.png"></td></tr></table></center>
+<center><table width="80%"><tr><td width="100%"><img src="Plot_Images/report.png"></td></tr></table></center>
 
 </details>
 
 <br />
 
 ### Scatter Plot using cluster labels to distictly identify each cluster
-<center><table width="80%"><tr><td width="64%"><img src="Plot_Images/scatter_c.png"></td></tr></table></center>
+<center><table width="50%"><tr><td width="64%"><img src="Plot_Images/scatter_c.png"></td></tr></table></center>
 
 ### Recommendation
 
