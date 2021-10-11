@@ -1,3 +1,4 @@
+![CryptoCompare](Plot_Images/bitcoin.jpg)
 # Cryptocurrency Clusters
 
 ## Background
