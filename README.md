@@ -9,7 +9,7 @@
 
 
 ### Data Preparation
---[Cryptocurrency_Clusters.ipynb](Cryptocurrency_Clusters.ipynb) notebook has the code
+--[Cryptocurrency_Clusters.ipynb](Cryptocurrency_Clusters.ipynb) notebook has the source code
 
 * Started by reading [crypto_data.csv](Resources/crypto_data.csv)  into Pandas. The dataset was obtained from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist).
 
