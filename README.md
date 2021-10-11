@@ -32,7 +32,7 @@ For this project, preserved 90% of the explained variance in dimensionality redu
 
 * Further reduced the dataset dimensions with t-SNE and visually inspected the results. In order to accomplish this task, ran t-SNE on the principal components: the output of the PCA transformation from earlier. Then created a scatter plot of the t-SNE output to observe whether there are distinct clusters or not.
 
-<center><table><tr><td><img src="Plot_Images/scatter.png" width="50%"></td></tr></table></center>
+<center><img src="Plot_Images/scatter.png" width="50%"></center>
 
 ### Cluster Analysis with k-Means
 
